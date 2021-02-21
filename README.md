@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello, I'm Temirlan 👋
+### Hi, I'm Temirlan 👋
 #### A fresh RS School graduate from Kazakhstan
-##### 😉 Open to new opportunities
  
 #### ⚡ Skills
 - **Programming languages & technologies**: Javascript, TypeScript, React, Redux, HTML5, CSS3, SASS, Bootstrap
