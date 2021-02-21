@@ -15,8 +15,19 @@ Here are some ideas to get you started:
 
 ### Hello, I'm Temirlan 👋
 #### A fresh RS School graduate from Kazakhstan
+##### 😉 Open to new opportunities
+ 
+#### ⚡ Skills
+- **Programming languages & technologies**: Javascript, TypeScript, React, Redux, HTML5, CSS3, SASS, Bootstrap
+- **Version control systems**: Git
+- **Known Tools**: Webpack, Babel, Adobe Photoshop (advanced), Adobe After Effects, Adobe Premiere, Visual Studio Code
+- **English level**: C1
 
-**Current status:** *Learning React.js + Redux*
+After successfully completing Rolling Scopes School JS course I am currently aimed on landing my first job as a Junior Software Developer and continue to sharpen my skills and master new technologies. 
+
+Feel free to take a look at some of my pet / study projects below 👇
+
+
 
 
 
