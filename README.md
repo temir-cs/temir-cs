@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 #### A fresh RS School graduate from Kazakhstan
  
 #### ⚡ Skills
-- **Programming languages & technologies**: Javascript, TypeScript, React, Redux, HTML5, CSS3, SASS, Bootstrap
-- **Version control systems**: Git
-- **Known Tools**: Webpack, Babel, Adobe Photoshop (advanced), Adobe After Effects, Adobe Premiere, Visual Studio Code
-- **English level**: C1
+- **Programming languages & technologies**: *Javascript, TypeScript, React, Redux, HTML5, CSS3, SASS, Bootstrap*
+- **Version control systems**: *Git*
+- **Known Tools**: *Webpack, Babel, Adobe Photoshop (advanced), Adobe After Effects, Adobe Premiere, Visual Studio Code*
+- **English level**: *C1 (IELTS: 8.0)*
 
 After successfully completing Rolling Scopes School JS course I am currently aimed on landing my first job as a Junior Software Developer and continue to sharpen my skills and master new technologies. 
 
