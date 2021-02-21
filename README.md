@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi, I'm Temirlan 👋
-#### A fresh RS School graduate from Kazakhstan
+#### 🎓 A fresh RS School graduate from Kazakhstan
  
 #### ⚡ Skills
 - **Programming languages & technologies**: *Javascript, TypeScript, React, Redux, HTML5, CSS3, SASS, Bootstrap*
