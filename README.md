@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **temir-cs/temir-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Temirlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=temir-cs&show_icons=true&theme=radical&count_private=true)
+
+### Hello, I'm Temirlan 👋
+#### A fresh RS School graduate from Kazakhstan
+
+**Current status:** *Learning React.js + Redux*
+
+
+
+
+
+
+
