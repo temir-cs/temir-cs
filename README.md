@@ -13,16 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, I'm Temirlan 👋
-#### 🎓 A software developer from Kazakhstan
- 
-#### ⚡ Skills
-- **Programming languages & technologies**: *Javascript, TypeScript, React, Redux, HTML5, CSS3, SASS, Bootstrap*
-- **Version control systems**: *Git*
-- **Known Tools**: *Webpack, Babel, Adobe Photoshop (advanced), Adobe After Effects, Adobe Premiere, Visual Studio Code*
-- **English level**: *C1 (IELTS: 8.0)*
-
-Feel free to take a look at some of my pet / study projects below 👇
+Experienced and result oriented web developer with 5+ years of experience in building and maintaining scalable web applications in fintech, edtech and ecommerce industry. Enjoy building speedy web applications in React backed by Node Express framework. Skilled in managing and leading a team of multiple developers, cross-team communication, focusing and understanding customer needs and delivering quality and reliable products on time. Fluent in English (C1), Chinese (HSK4) and Russian (Native).
 
 
 
