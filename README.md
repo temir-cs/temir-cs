@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Experienced and result oriented web developer with 8+ years of experience in building and maintaining scalable web applications in fintech, edtech and ecommerce industry. Enjoy building speedy web applications in React backed by Node Express framework. Skilled in managing and leading a team of multiple developers, cross-team communication, focusing and understanding customer needs and delivering quality and reliable products on time. Fluent in English (C1), Chinese (HSK4) and Russian (Native).
+- Senior Frontend Engineer with 9+ years of experience in fintech, edtech, and e-commerce with proven track record in delivering successful projects. Proficient in performance optimization and development of fast, lightweight, secure and accessible web-applications. Experienced in cloud technologies including AWS, GitHub, GitLab, Jenkins, and Docker. 
+- Currently leading a team of 8 fullstack developers at EBSCO (US). Led development of various features and owning several critical UI services with overall application revenue of more than 900m dollars.
+- Master (Honours) of Computer Science from University of Nottingham. English (C1), Chinese (B2) and Russian (Native)
+- Able to work both remotely and in office, open to relocation.
+
 
 
 
